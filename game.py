@@ -267,7 +267,7 @@ class MyGame(object):
         self.state = MyGame.WELCOME
 
         # making the welcome title and description
-        self.welcome_asteroids = self.big_font.render("Asteroids",\
+        self.welcome_asteroids = self.big_font.render("Komodasteroids",\
                                                 True, (255, 215, 0))
         self.welcome_desc =  self.medium_font.render(\
             "[Click anywhere/press Enter] to begin!", True, (35, 107, 142))
