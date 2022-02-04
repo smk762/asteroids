@@ -1,16 +1,12 @@
-asteroids
-=========
+Komodasteroids
+==============
 
-Simple Asteroids clone in Python, using pygame  
+Simple Asteroids clone in Python, using pygame. Original by [Amin Bandali](https://github.com/notbandali/asteroids)
 
-        _        _                 _     _
-       / \   ___| |_ ___ _ __ ___ (_) __| |___
-      / _ \ / __| __/ _ \ '__/ _ \| |/ _` / __|
-     / ___ \\__ \ ||  __/ | | (_) | | (_| \__ \
-    /_/   \_\___/\__\___|_|  \___/|_|\__,_|___/
-    
-    by Amin Bandali
+![image](https://user-images.githubusercontent.com/35845239/152567542-38a63bc6-4d52-40ab-9b7a-cc1e922942cb.png)
 
+## Requirements
+`pip3 install -r requirements.txt`
 
 ## How To Play
 
